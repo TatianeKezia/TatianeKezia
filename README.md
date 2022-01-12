@@ -1,16 +1,25 @@
-### Hi there 👋
+## Oiii! Eu sou Tatiane Kezia
 
-<!--
-**TatianeKezia/TatianeKezia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Fascinada por inovação e tecnologia!
 
-Here are some ideas to get you started:
+- Hoje atuo como Estagiária
+- Estou cursando Técnico em Informática e Engenharia de Produção
+- Estudando C#, CSS, HTML, JavaScript, MySql, Python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <img height="180em" alt="" src="https://github-readme-stats.vercel.app/api?username=TatianeKezia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianeKezia"/>
+</div>
+
+<div style = "display: inline_block" align = ""><br>
+  <img align="center" alt ="Tati-C#" height ="32em" width ="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt ="Tati-CSS" height ="32em" width ="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt ="Tati-HTML" height ="32em" width ="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt ="Tati-JavaScript" height ="32em" width ="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt ="Tati-Python" height ="32em" width ="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt ="Tati-MySql" height ="" width ="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+
+##
