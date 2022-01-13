@@ -8,11 +8,14 @@
 
 ##
 
+##### Principais linguagens utilizadas:
 <div>
-  <img height="180em" alt="" src="https://github-readme-stats.vercel.app/api?username=TatianeKezia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianeKezia"/>
+  <img height= "220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianeKezia"/>
 </div>
 
+##
+
+##### Linguagens de Interesse:
 <div style = "display: inline_block" align = ""><br>
   <img align="center" alt ="Tati-C#" height ="32em" width ="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt ="Tati-CSS" height ="32em" width ="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
