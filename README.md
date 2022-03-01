@@ -6,7 +6,7 @@
 - Estou cursando Técnico em Informática e Engenharia de Produção
 - Estudando C#, CSS, HTML, JavaScript, MySql, Python 
 
-## Principais Linguagens Utilizadas:
+##### Principais Linguagens Utilizadas:
 <div>
 <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianeKezia"/>
 </div>
