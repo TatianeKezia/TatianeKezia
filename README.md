@@ -10,7 +10,7 @@
 
 ##### Principais linguagens utilizadas:
 <div>
-  <img height="240em" scr= "https://github-readme-stats.vercel.app/api/top-langs/?username=TatianeKezia"/>
+  <img height="220em" scr= "https://github-readme-stats.vercel.app/api/top-langs/?username=TatianeKezia&layout=compact"/>
 </div>
 
 ##
