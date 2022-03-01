@@ -8,12 +8,6 @@
 
 ##
 
-##### Principais linguagens utilizadas:
-<div>
-  <img height="220em" scr= "https://github-readme-stats.vercel.app/api/top-langs/?username=TatianeKezia&layout=compact"/>
-</div>
-
-##
 
 ##### Linguagens de Interesse:
 <div style = "display: inline_block" align = ""><br>
