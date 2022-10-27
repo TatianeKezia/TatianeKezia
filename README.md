@@ -3,7 +3,7 @@
 #### Fascinada por inovação e tecnologia!
 
 - Hoje atuo como Estagiária
-- Estou cursando Técnico em Informática e Engenharia de Produção
+- Estou cursando Engenharia de Produção
 - Estudando C#, JavaScript, HTML, CSS, MySql, Python 
 
 
