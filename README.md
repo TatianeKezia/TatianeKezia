@@ -7,12 +7,13 @@
 - Estudando C#, JavaScript, HTML, CSS, MySql, Python 
 
 
-##  
 
+##
 
 <div align="center">
-<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianeKezia&layout=compact&theme=github_dark&custom_title=Principais Linguagens Utilizadas&hide=Objective-C"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianeKezia&layout=compact&theme=github_dark"/>
 </div>
+
 
 ##
 
